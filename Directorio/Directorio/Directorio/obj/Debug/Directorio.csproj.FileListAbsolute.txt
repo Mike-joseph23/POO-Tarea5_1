@@ -1,0 +1,7 @@
+C:\Users\Mike Contreras\Documents\GitHub\POO-Tarea5_1\Directorio\Directorio\Directorio\bin\Debug\Directorio.exe.config
+C:\Users\Mike Contreras\Documents\GitHub\POO-Tarea5_1\Directorio\Directorio\Directorio\bin\Debug\Directorio.exe
+C:\Users\Mike Contreras\Documents\GitHub\POO-Tarea5_1\Directorio\Directorio\Directorio\bin\Debug\Directorio.pdb
+C:\Users\Mike Contreras\Documents\GitHub\POO-Tarea5_1\Directorio\Directorio\Directorio\obj\Debug\Directorio.csproj.AssemblyReference.cache
+C:\Users\Mike Contreras\Documents\GitHub\POO-Tarea5_1\Directorio\Directorio\Directorio\obj\Debug\Directorio.csproj.CoreCompileInputs.cache
+C:\Users\Mike Contreras\Documents\GitHub\POO-Tarea5_1\Directorio\Directorio\Directorio\obj\Debug\Directorio.exe
+C:\Users\Mike Contreras\Documents\GitHub\POO-Tarea5_1\Directorio\Directorio\Directorio\obj\Debug\Directorio.pdb
